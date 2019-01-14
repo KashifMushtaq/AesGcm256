@@ -1,8 +1,7 @@
-# AesGcm256
 # Cross Platform AES 256 GCM Encryption / Decryption (C#)
 
 
-# Introduction
+### Introduction
 
 While working in security, identity management and data protection fields for a while, I found a very few working examples in the public domain on cross platform encryption based on AES 256 GCM algorithm. This is the same algorithm used by Google when you access Gmail, etc.
 
@@ -22,7 +21,7 @@ Copy paste code from the article and correct header files paths (like pch.h) You
 
 Another purpose of this article is to combine all three major programming languages sample code at one place. You don't have to search through thousands of individual samples, some of them do not work as intended. The code sample here works without any issue.
 
-# Background
+### Background
 
 [Cross Platform AES 256 GCM Encryption and Decryption (C++, C# and Java)](https://www.codeproject.com/Articles/1265115/Cross-Platform-AES-256-GCM-Encryption-Decryption)
 
@@ -32,7 +31,7 @@ Similarly, details about BouncyCastle can be found [here](https://www.bouncycast
 
 BouncyCastle .NET used in C# code is [here](https://www.nuget.org/packages/BouncyCastle.NetCore/)
 
-# Using the Code
+### Using the Code
 Please add reference:
 BouncyCastle.Crypto [BouncyCastle.Crypto.dll](https://www.nuget.org/packages/BouncyCastle.Crypto.dll/)
 
