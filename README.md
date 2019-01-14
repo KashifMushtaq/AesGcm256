@@ -1,5 +1,6 @@
 # Cross Platform AES 256 GCM Encryption / Decryption (C#)
 
+![C# Test](https://github.com/KashifMushtaq/AesGcm256/blob/master/CSharp.jpg)
 
 ### Introduction
 
