@@ -36,7 +36,7 @@ BouncyCastle .NET used in C# code is [here](https://www.nuget.org/packages/Bounc
 Please add reference:
 BouncyCastle.Crypto [BouncyCastle.Crypto.dll](https://www.nuget.org/packages/BouncyCastle.Crypto.dll/)
 
-### [C# Verion](https://github.com/KashifMushtaq/AesGcm256)
-### [C++ Verion](https://github.com/KashifMushtaq/AES_GCM_256_C)
-### [Java Verion](https://github.com/KashifMushtaq/Aes256GCM_Java)
+### [C# Version](https://github.com/KashifMushtaq/AesGcm256)
+### [C++ Version](https://github.com/KashifMushtaq/AES_GCM_256_C)
+### [Java Version](https://github.com/KashifMushtaq/Aes256GCM_Java)
 
